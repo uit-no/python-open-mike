@@ -3,7 +3,7 @@ layout: default
 title: Python "open mike" events at UiT
 ---
 
-## Idea
+## Format
 
 Eventually it could be a platform where participants show something useful to
 others. But it will take some time to warm up and until then each event will
@@ -11,6 +11,9 @@ have a theme and we will suggest exercises. Participants can prepare these
 exercises but do not have to.  We go through the exercise and solutions
 together but those who have solved the exercises can present alternative
 solutions which we discuss together.
+
+At each event we fix the dates for the next event and together we choose a
+theme.
 
 
 ## What to expect

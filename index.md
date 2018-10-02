@@ -1,0 +1,59 @@
+---
+layout: default
+title: Python "open mike" events at UiT
+---
+
+## Idea
+
+Eventually it could be a platform where participants show something useful to
+others. But it will take some time to warm up and until then each event will
+have a theme and we will suggest exercises. Participants can prepare these
+exercises but do not have to.  We go through the exercise and solutions
+together but those who have solved the exercises can present alternative
+solutions which we discuss together.
+
+
+## What to expect
+
+- Informal events.
+- Interaction.
+- Questions, answers, and discussions.
+
+
+## What not to expect
+
+Do not expect a semester-long course or lecture series
+where you can sit back and somebody presents some slides. The goal is
+to discuss, ask questions, and to demo. There are no slides, and there is no lecture.
+
+
+## Next event
+
+### 2018-10-24, 16:00-17:30 in TEO-H2 2.310
+
+Theme: Strings and lists and looping over lists.
+
+Exercises (OK to prepare all or prepare none):
+
+1. Write a function to reverse a string (e.g. it should turn "stressed" into "desserts").
+2. Find out whether a word or sentence is an [isogram](https://en.wikipedia.org/wiki/Isogram).
+3. Find out whether a word or sentence is a palindrome.
+
+
+## Past events
+
+### 2018-09-27, 16:00 in TEO-H2 2.310
+
+General discussion about the format, duration, frequency, and topics for the meet-up series.
+
+
+## Recommended reading
+
+- [Real Python Tutorials](https://realpython.com)
+- [The Hitchhiker’s Guide to Python!](https://docs.python-guide.org)
+
+
+## Exercise ideas for future events
+
+- Take some text from [Project Gutenberg](http://www.gutenberg.org) and find the most
+  frequent word and character. Verify [Zipf's law](https://en.wikipedia.org/wiki/Zipf%27s_law).

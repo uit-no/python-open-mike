@@ -60,3 +60,9 @@ General discussion about the format, duration, frequency, and topics for the mee
 
 - Take some text from [Project Gutenberg](http://www.gutenberg.org) and find the most
   frequent word and character. Verify [Zipf's law](https://en.wikipedia.org/wiki/Zipf%27s_law).
+
+
+## Topics ideas for future events
+
+- Context managers
+- Functional programming

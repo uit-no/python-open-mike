@@ -54,12 +54,12 @@ observations = {
 ```
 
 Try to answer with code:
-- how many distinct species were observed in each biome?
-- how many sheep were observed in total?
-- are there any species that appear in all biomes?
-- which animals are only found in the jungle?
-- which is the most common animal of all?
-- are parrots found only in the jungle?
+- How many distinct species were observed in each biome?
+- How many sheep were observed in total?
+- Are there any species that appear in all biomes?
+- Which animals are only found in the jungle?
+- Which is the most common animal of all?
+- Are parrots found only in the jungle?
 
 
 ## Past events

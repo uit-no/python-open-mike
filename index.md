@@ -45,7 +45,7 @@ Exercises (OK to prepare all or prepare none):
    frequent characters and 5 most frequent words. Ignore all punctuation and we recommend to lowercase the entire text.
 4. Consider the following animal observations:
 
-```python
+```
 observations = {
     'forest': ['cow', 'cow', sheep', 'sheep', 'pig', 'sheep'],
     'plains': ['horse', 'horse', 'sheep', 'horse'],

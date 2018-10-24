@@ -30,7 +30,39 @@ where you can sit back and somebody presents some slides. The goal is
 to discuss, ask questions, and to demo. There are no slides, and there is no lecture.
 
 
-## Next event
+## Next event: 2018-11-14, 16:00-17:30 in (room to be announced)
+
+Theme: Lists, list comprehensions, dictionaries, sets, and tuples.
+
+You can email solutions to Radovan Bast (firstname.lastname@uit.no) who will collect them
+and make them available here (without names) so that you can compare.
+
+Exercises (OK to prepare all or prepare none):
+
+1. Create a list `a` containing (floating point) numbers. Now create a new list `b` with each element of `a` squared.
+2. Combine two lists `[a1, a2, ...]` and `[b1, b2, ...]` to a list of tuples: `[(a1, b1), (a2, b2), ...]`
+3. Take some text (can be few paragraphs) from [Project Gutenberg](http://www.gutenberg.org) and find the 5 most
+   frequent characters and 5 most frequent words. Ignore all punctuation and we recommend to lowercase the entire text.
+4. Consider the following animal observations:
+
+```python
+observations = {
+    'forest': ['cow', 'cow', sheep', 'sheep', 'pig', 'sheep'],
+    'plains': ['horse', 'horse', 'sheep', 'horse'],
+    'jungle': ['ocelot', 'parrot', 'sheep', 'parrot'],
+}
+```
+
+Try to answer with code:
+- how many distinct species were observed in each biome?
+- how many sheep were observed in total?
+- are there any species that appear in all biomes?
+- which animals are only found in the jungle?
+- which is the most common animal of all?
+- are parrots found only in the jungle?
+
+
+## Past events
 
 ### 2018-10-24, 16:00-17:30 in TEO-H2 2.310
 
@@ -42,9 +74,6 @@ Exercises (OK to prepare all or prepare none):
 2. Find out whether a word or sentence is an [isogram](https://en.wikipedia.org/wiki/Isogram).
 3. Find out whether a word or sentence is a palindrome.
 
-
-## Past events
-
 ### 2018-09-27, 16:00 in TEO-H2 2.310
 
 General discussion about the format, duration, frequency, and topics for the meet-up series.
@@ -54,12 +83,6 @@ General discussion about the format, duration, frequency, and topics for the mee
 
 - [Real Python Tutorials](https://realpython.com)
 - [The Hitchhiker’s Guide to Python!](https://docs.python-guide.org)
-
-
-## Exercise ideas for future events
-
-- Take some text from [Project Gutenberg](http://www.gutenberg.org) and find the most
-  frequent word and character. Verify [Zipf's law](https://en.wikipedia.org/wiki/Zipf%27s_law).
 
 
 ## Topics ideas for future events

@@ -37,7 +37,7 @@ Theme: Lists, list comprehensions, dictionaries, sets, and tuples.
 You can email solutions to Radovan Bast (firstname.lastname@uit.no) who will collect them
 and make them available here (without names) so that you can compare.
 
-Exercises (OK to prepare all or prepare none):
+Exercises (OK to prepare all or prepare none; [some solutions](solutions/2)):
 
 1. Create a list `a` containing (floating point) numbers. Now create a new list `b` with each element of `a` squared.
 2. Combine two lists `[a1, a2, ...]` and `[b1, b2, ...]` to a list of tuples: `[(a1, b1), (a2, b2), ...]`

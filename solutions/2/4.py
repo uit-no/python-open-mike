@@ -20,11 +20,11 @@ print(count)
 
 
 print('\nAre there any species that appear in all biomes?')
-print(species['forest'].intersection(species['plains']).intersection(species['jungle']))
+print(species['forest'].intersection(species['plains'], species['jungle']))
 
 
 print('\nWhich animals are only found in the jungle?')
-print(species['jungle'].difference(species['forest']).difference(species['plains']))
+print(species['jungle'].difference(species['forest'], species['plains']))
 
 
 print('\nWhich is the most common animal of all?')
@@ -63,4 +63,4 @@ else:
 
 # another formulation using set differences
 print('\nAre parrots found only in the jungle?')
-print('parrot' in species['jungle'].difference(species['forest']).difference(species['plains']))
+print('parrot' in species['jungle'].difference(species['forest'], species['plains']))

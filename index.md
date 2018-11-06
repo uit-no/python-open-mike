@@ -30,7 +30,7 @@ where you can sit back and somebody presents some slides. The goal is
 to discuss, ask questions, and to demo. There are no slides, and there is no lecture.
 
 
-## Next event: 2018-11-14, 16:00-17:30 in (room to be announced)
+## Next event: 2018-11-14, 16:00-17:30 in TEO-H1 1.213
 
 Theme: Lists, list comprehensions, dictionaries, sets, and tuples.
 

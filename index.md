@@ -95,3 +95,4 @@ General discussion about the format, duration, frequency, and topics for the mee
 - `pygame`
 - Recursion
 - Generators and iterators
+- `pandas`

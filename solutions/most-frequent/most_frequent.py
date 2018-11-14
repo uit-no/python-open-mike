@@ -22,5 +22,3 @@ if __name__ == "__main__":
         lines = page.read().lower()
     print("# Most frequent words:", word_counter(lines, 5))
     print("# Most frequent chars:", char_counter(lines, 5))
-
-    

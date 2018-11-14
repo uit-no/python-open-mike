@@ -17,7 +17,7 @@ def word_counter(string, number):
 
 
 if __name__ == "__main__":
-    file_name = "Dracula"
+    file_name = "poem.txt"
     with open(file_name) as page:
         lines = page.read().lower()
     print("# Most frequent words:", word_counter(lines, 5))

@@ -30,7 +30,20 @@ where you can sit back and somebody presents some slides. The goal is
 to discuss, ask questions, and to demo. There are no slides, and there is no lecture.
 
 
-## Next event: 2018-11-14, 16:00-17:30 in TEO-H1 1.213
+## Next event: 2018-12-17, 16:00-17:30 in TEO-H1 1.417
+
+Theme: Generators, iterators, and recursion (sorry, we will do context managers some other time)
+
+You can email solutions to Radovan Bast (firstname.lastname@uit.no) who will collect them
+and make them available here (without names) so that you can compare.
+
+Exercises (OK to prepare all or prepare none):
+
+**We will post them before Nov 19** (exercise ideas welcome)
+
+## Past events
+
+### 2018-11-14
 
 Theme: Lists, list comprehensions, dictionaries, sets, and tuples.
 
@@ -63,9 +76,7 @@ Try to answer with code:
 - Are parrots found only in the jungle?
 
 
-## Past events
-
-### 2018-10-24, 16:00-17:30 in TEO-H2 2.310
+### 2018-10-24
 
 Theme: Strings and lists and looping over lists.
 
@@ -75,7 +86,7 @@ Exercises (OK to prepare all or prepare none):
 2. Find out whether a word or sentence is an [isogram](https://en.wikipedia.org/wiki/Isogram).
 3. Find out whether a word or sentence is a palindrome.
 
-### 2018-09-27, 16:00 in TEO-H2 2.310
+### 2018-09-27
 
 General discussion about the format, duration, frequency, and topics for the meet-up series.
 
@@ -93,6 +104,4 @@ General discussion about the format, duration, frequency, and topics for the mee
 - `collections`
 - File I/O
 - `pygame`
-- Recursion
-- Generators and iterators
 - `pandas`

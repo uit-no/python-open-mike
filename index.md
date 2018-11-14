@@ -90,3 +90,8 @@ General discussion about the format, duration, frequency, and topics for the mee
 
 - Context managers
 - Functional programming
+- `collections`
+- File I/O
+- `pygame`
+- Recursion
+- Generators in iterators

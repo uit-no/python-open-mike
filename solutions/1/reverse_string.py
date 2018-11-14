@@ -20,6 +20,6 @@ def reverse_string_3(string):
 
 if __name__ == "__main__":
     string = "Hello world!"
-    print(reverse_string(string))
-    print(reverse_string_2(string))
-    print(reverse_string_3(string))
+    print("{} reversed is: {}".format(string, reverse_string(string)))
+    print("{} reversed is: {}".format(string, reverse_string_2(string)))
+    print("{} reversed is: {}".format(string, reverse_string_3(string)))

@@ -95,6 +95,7 @@ General discussion about the format, duration, frequency, and topics for the mee
 
 - [Real Python Tutorials](https://realpython.com)
 - [The Hitchhiker’s Guide to Python!](https://docs.python-guide.org)
+- [Python 3 Module of the Week](https://pymotw.com/3/)
 
 
 ## Topics ideas for future events

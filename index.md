@@ -39,7 +39,13 @@ and make them available here (without names) so that you can compare.
 
 Exercises (OK to prepare all or prepare none):
 
-**We will post them before Nov 19** (exercise ideas welcome)
+1. Study what the `enumerate` function does and write your own `my_enumerate` that has the same effect.
+2. Write a function `my_clock` which moves the time by one hour and returns the time in 12-hour format,
+   e.g. `11 am` or `3 pm` and we can call it and advance by one hour infinitely many times.
+3. Write a function which returns the next element of this infinite series: 1, 2, 3, 4, 5, 5, 4, 3, 2, 1, 1, 2, 3, 4, 5, 5, 4, ...
+4. Write a function which draws or prints a snowflake or x-mas tree in text or ASCII art or somehow - use your creativity!
+   Extra points for using recursion.
+
 
 ## Past events
 

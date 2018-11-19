@@ -6,6 +6,8 @@ author: the organizers
 status: next
 ---
 
+### Room: TEO-H1 1.417
+
 ## Exercises
 
 1. Study what the `enumerate` function does and write your own `my_enumerate` that has the same effect.

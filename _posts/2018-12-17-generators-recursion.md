@@ -9,7 +9,7 @@ status: next
 
 ### Room: TEO-H1 1.417, time: 16:00 - 17:30
 
-## Exercises
+## Exercises ([contributed solutions](https://github.com/uit-no/python-open-mike/tree/gh-pages/solutions/3))
 
 1. Study what the `enumerate` function does and write your own `my_enumerate` that has the same effect.
 2. Write a generator `clock_generator()` which starts at midnight, moves the time by one hour and returns the time in 12-hour format,

@@ -2,11 +2,12 @@
 layout: post
 title: "2018-12-17: Generators, iterators, and recursion"
 room: "TEO-H1 1.417"
+time: "16:00 - 17:30"
 author: the organizers
 status: next
 ---
 
-### Room: TEO-H1 1.417
+### Room: TEO-H1 1.417, time: 16:00 - 17:30
 
 ## Exercises
 

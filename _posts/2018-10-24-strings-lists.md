@@ -5,7 +5,7 @@ author: the organizers
 status: past
 ---
 
-## Exercises
+## Exercises ([contributed solutions](https://github.com/uit-no/python-open-mike/tree/gh-pages/solutions/1))
 
 1. Write a function to reverse a string (e.g. it should turn "stressed" into "desserts").
 2. Find out whether a word or sentence is an [isogram](https://en.wikipedia.org/wiki/Isogram).

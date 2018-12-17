@@ -79,3 +79,5 @@ compare. It is OK to prepare all or prepare none.
 - `pygame`
 - `pandas`
 - `tkinter`
+- `pytest`
+- tic-tac-toe game

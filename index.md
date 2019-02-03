@@ -18,7 +18,8 @@ theme.
 
 ## How to get notified about upcoming events
 
-You can sign up here: https://tinyletter.com/python-events
+You can sign up here:
+[https://tinyletter.com/python-events](https://tinyletter.com/python-events)
 
 You will get emails informing you about upcoming Python meetups and courses in
 Tromsø. Probably 1 email/month and you can unsubscribe at any time.

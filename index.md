@@ -86,5 +86,4 @@ compare. It is OK to prepare all or prepare none.
 - `collections`
 - File I/O
 - `pygame`
-- `pandas`
 - `tkinter`

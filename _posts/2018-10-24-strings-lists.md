@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "2018-10-24: Strings and lists and looping over lists"
 author: the organizers
 status: past

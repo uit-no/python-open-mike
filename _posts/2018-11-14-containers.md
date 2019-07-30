@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "2018-11-14: Lists, list comprehensions, dictionaries, sets, and tuples"
 author: the organizers
 status: past

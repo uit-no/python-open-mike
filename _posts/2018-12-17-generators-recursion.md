@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "2018-12-17: Generators, iterators, and recursion"
 room: "TEO-H1 1.417"
 time: "16:00 - 17:30"

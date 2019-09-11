@@ -48,6 +48,8 @@ compare. It is OK to prepare all or prepare none.
 
 ## Next event
 
+Upon request: please write to Radovan Bast (firstname.lastname@uit.no)
+
 <ul>
   {% for post in site.posts %}
     {% if post.status != 'past' %}
